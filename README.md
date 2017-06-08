@@ -1,7 +1,7 @@
 # Generic Webhook Proxy 
 
 ## Basic idea
-Have this server running to receive webhooks from any other service (e.g. Github), store its result and let other services poll results.
+Have this server running to receive webhooks from any other service (e.g. Github), store its result and let other services poll results. For further capabilities see To do.
 
 ## To do:
 Base:
