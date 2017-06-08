@@ -23,6 +23,10 @@ Enhancements:
 - provide interface for general settings:
   - Authentication
   - List/Delete registered hooks
+- transformation of received data via scripts
+- Cli tool:
+  - create hooks and forward to localhost
 
 Projects with related ideas:
 - Multiplexing Heroku WebHooks in Go: https://github.com/jelder/bownse
+- public hook to localhost via command line: http://www.ultrahook.com/
